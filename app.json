@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "sample",
+    "slug": "crna-sample",
+    "sdkVersion": "20.0.0"
+  },
+  "name": "crnasample",
+  "displayName": "sample"
+}
